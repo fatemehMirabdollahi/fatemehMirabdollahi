@@ -15,4 +15,4 @@ i'm fatemeh mirabdollahi a student in [shahid beheshti university](https://www.s
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehMirabdollahi&layout=compact"  />
 
 ## Contact Me
- Gmail: www.fatemeh.1378.mir@gmail.com
+[![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:fatemeh.1378.mir@gmail.com)
