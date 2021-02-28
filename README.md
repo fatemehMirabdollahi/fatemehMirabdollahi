@@ -16,4 +16,4 @@ My major is computer engineering.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehMirabdollahi&layout=compact"  />
 
 ## Contact Me
- Gamil : www.fatemeh.1378.mir@gmail.com
+ Gmail: www.fatemeh.1378.mir@gmail.com
