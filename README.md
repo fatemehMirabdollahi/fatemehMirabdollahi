@@ -1,6 +1,6 @@
  ### Hi :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-i'm fatemeh mirabdollahi a student in [shahid beheshti university](https://www.sbu.ac.ir/) studing computer engeeniering. 
+I'm Fatemeh Mirabdollahi a student in [Shahid Beheshti university](https://www.sbu.ac.ir/) studying computer engineering. 
 
 ## Languages and Tools
 
